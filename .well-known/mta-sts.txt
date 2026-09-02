@@ -1,6 +1,5 @@
 version: STSv1
 mode: testing
+mx: eu1-smtp.messagingengine.com
+mx: eu2-smtp.messagingengine.com
 max_age: 604800
-mx: *.googlemail.com
-mx: *.aspmx.l.google.com
-mx: aspmx.l.google.com
