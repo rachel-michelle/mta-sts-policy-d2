@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: eu1-smtp.messagingengine.com
 mx: eu2-smtp.messagingengine.com
-max_age: 604800
+max_age: 2592000
